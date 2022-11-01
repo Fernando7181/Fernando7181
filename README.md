@@ -9,3 +9,6 @@
 - 👯 I’m looking to collaborate on anything, all i want is to learn
 - 🤔 I’m looking for help with java...
 - 💬 Ask me about anything and i'll see if i can help you
+
+ <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Fernando-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
