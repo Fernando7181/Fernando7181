@@ -8,8 +8,10 @@
  🌱 I’m currently learning Python & Java 
  👯 I’m looking to collaborate on anything, all i want is to learn
  🤔 I’m looking for help with java...
- 💬 Ask me about anything and i'll see if i can help you 
- 💬 Looking out for internship 
+ 💬 Ask me about anything and i'll see if i can help you
+ 💬 Looking out for internship
+ 💬 Trying to help the community and get back to it.
+ 
  <img align="center" alt="Fernando-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Fernando-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Fernando-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
